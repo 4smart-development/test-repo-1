@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIryl_Bahdanovich\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d30C5+eEXA53gehaPqWlZuy6XjJsZiSaJI4/elfG5mNGkH9mW8511znj8hE3C5YldQmkGECCYCwVlLgKESViCA==",
+  "dgSpecHash": "obuRxVy6kWPcThFtnmjGrjztZUHsSFYyDJSd5aD7GENkqdgUrfD/dY3fgHj7xwKvNjYYzqGM8inPM2/is4oinA==",
   "success": true,
-  "projectFilePath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

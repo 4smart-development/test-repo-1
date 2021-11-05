@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"1 + 2 = {new Service().Sum(1, 2)}");
+            Console.WriteLine($"1 + 2 = {Service.Sum(1, 2)}");
         }
     }
 }
