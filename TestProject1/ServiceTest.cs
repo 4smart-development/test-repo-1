@@ -9,9 +9,7 @@ namespace TestProject1
         [Fact]
         public void Test1()
         {
-            var service = new Service();
-
-            var result = service.Sum(1, 2);
+            var result = Service.Sum(1, 2);
 
             Assert.Equal(3, result);
         }
