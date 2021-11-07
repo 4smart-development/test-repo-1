@@ -59,6 +59,13 @@ jobs:
            
           dotnet build --no-restore
           
-          dotnet test --logger trx --results-directory TestResults
+          >
+          dotnet test
+          --logger trx
+          --no-build
+          --no-restore
+          --results-directory TestResults/
+          --collect:"XPlat Code Coverage"
+          -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=opencover
           
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
