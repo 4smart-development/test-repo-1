@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=4smart-development_test-repo-1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=4smart-development_test-repo-1)
